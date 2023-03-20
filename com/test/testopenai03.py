@@ -2,7 +2,7 @@ import pandas as pd
 import openai
 import subprocess
 
-openai.api_key = "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"
+openai.api_key = "p"
 
 df = pd.read_csv("out_openai_completion.csv")
 
