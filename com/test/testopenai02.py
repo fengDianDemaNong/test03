@@ -2,7 +2,7 @@ import os
 import openai
 import pandas as pd
 
-openai.api_key = "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"
+openai.api_key = ""
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 
 l_age = ['18', '20', '30', '40', '50', '60', '90']
